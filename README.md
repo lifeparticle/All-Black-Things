@@ -48,7 +48,7 @@
 ## Umbrella
 1. https://www.amazon.com.au/AmazonBasics-Automatic-Travel-Umbrella-Black/dp/B00WTHJ5SU
 
-## knife
+## Knife
 1. https://www.bladehq.com/item--Microtech-UTX-85-DE-OTF-Automatic--80743
 
 ## Multitool
