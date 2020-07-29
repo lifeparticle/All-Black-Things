@@ -66,6 +66,7 @@
 
 ## Wallets
 1. https://bellroy.com/products/slim-sleeve-de/leather/black
+2. https://popsockets.com.au/products/black-popwallet
 
 ## Pants
 1. https://www.boundarysupply.com/products/mens-chase-denim-pant
