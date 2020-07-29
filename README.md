@@ -12,6 +12,7 @@
 
 ## Powerbank
 1. https://hellonomad.com/products/powerpack
+2. https://zendure.com/collections/power-banks/products/supermini-5k?lang=en&country=australia?variant=32104662433866
 
 ## Notebook
 1. https://www.amazon.com.au/Moleskine-Classic-Notebook-Sketching-Journaling/dp/8883701135
@@ -50,6 +51,7 @@
 
 ## Knife
 1. https://www.bladehq.com/item--Microtech-UTX-85-DE-OTF-Automatic--80743
+2. https://dapperdesign.com/products/klip-black-aluminum-knife-edc-suspension-hook
 
 ## Multitool
 1. https://www.amazon.com/Gerber-Dime-Multi-Tool-Black-30-000469/dp/B006M9NIDO/
@@ -73,3 +75,6 @@
 
 ## Box
 1. https://en.monbento.com/bento-box-monbento-mb-original-black-4129.html
+
+## Sunglasses
+1. https://www.amazon.com/dp/B07BGFH9F7/
