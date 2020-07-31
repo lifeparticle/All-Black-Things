@@ -88,3 +88,6 @@
 
 ## Desk Mat
 1. https://grovemade.com/product/black-leather-desk-pad/
+
+## Mouse Pad
+1. https://ergonofis.com/products/leather-mouse-pad
