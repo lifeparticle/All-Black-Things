@@ -91,3 +91,6 @@
 
 ## Mouse Pad
 1. https://ergonofis.com/products/leather-mouse-pad
+
+## Kettles
+1. https://www.amazon.com.au/dp/B07NLVRX4G
