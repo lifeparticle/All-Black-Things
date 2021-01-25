@@ -94,3 +94,19 @@
 
 ## Kettles
 1. https://www.amazon.com.au/dp/B07NLVRX4G
+
+## Storage & Organization
+1. https://www.lowes.com/pd/Blue-Hawk-1-Piece-Steel-Pegboard-Actual-16-in-x-16-in/50220687
+2. https://www.target.com/p/mesh-desk-organizer-black-made-by-design-8482/-/A-53818724
+3. https://www.target.com/p/mesh-letter-sorter-black-made-by-design-8482/-/A-53820883
+4. https://www.amazon.com/gp/product/B07ZHNT3JV/
+5. https://www.amazon.com/gp/product/B073XV1P16/
+6. https://www.amazon.com/gp/product/B071FXZBMV
+
+## Others
+1. https://www.amazon.com/gp/product/B00P936188
+2. https://www.amazon.com/gp/product/B088NMR44C/
+3. https://www.amazon.com/gp/product/B07V2LDGQ7
+4. https://www.amazon.com/gp/product/B07DD5YHMH
+5. https://www.amazon.com/gp/product/B071X9XNWR
+6. https://www.amazon.com/gp/product/B07H4YTL2B
