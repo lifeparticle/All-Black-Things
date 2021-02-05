@@ -70,6 +70,12 @@
 1. https://bellroy.com/products/slim-sleeve-de/leather/black
 2. https://popsockets.com.au/products/black-popwallet
 
+## Shirts
+1. https://bananarepublic.gap.com/browse/product.do?pid=665373002#pdp-page-content
+
+## Turtle Neck
+1. https://www.uniqlo.com/au/en/products/E419192-000?colorCode=COL09
+
 ## Pants
 1. https://www.boundarysupply.com/products/mens-chase-denim-pant
 
