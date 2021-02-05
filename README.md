@@ -73,6 +73,9 @@
 ## Shirts
 1. https://bananarepublic.gap.com/browse/product.do?pid=665373002#pdp-page-content
 
+## Scarf
+1. https://bananarepublic.gap.com/browse/product.do?pid=607920012#pdp-page-content
+
 ## Turtle Neck
 1. https://www.uniqlo.com/au/en/products/E419192-000?colorCode=COL09
 
