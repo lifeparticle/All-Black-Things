@@ -44,24 +44,21 @@ Table of Contents
 * [Bags](#bags)
 * [Others](#others)
 
+## Notebook
+1. [Moleskine Classic Notebook Expanded](https://www.moleskine.com/shop/notebooks/the-original-notebooks/classic-notebook-expanded-8058647628042.html)
+2. [Amazon Basics Classic Lined Notebook](https://www.amazon.com/AmazonBasics-NH130210120V-R-Classic-Notebook-Ruled/dp/B01DN8TCEU/ref=sr_1_4?s=office-products&ie=UTF8&qid=1550395017&sr=1-4&keywords=Black+Leather+Notepad)
 
 ## PEN
-1. https://www.amazon.com/dp/B0002ZQB4M/
-
-## Ring
-1. https://www.amazon.com/dp/B076Q9JXP5/ref=twister_B07N7YLV2D?th=1
-2. https://www.amazon.com/BONDWELL-Silicone-Marriage-Athletes-Military/dp/B0175UU39A
+1. [Fisher Space Pen Bullet Pen ](https://www.spacepen.com/400B.aspx)
 
 ## Pencil
-1. https://www.amazon.com/Pentel-Mechanical-Pencil-Barrel-PP505BP/dp/B01G7C1O2M
+1. [Pentel Orenz Mechanical Pencil](https://www.pentel.com.au/orenz.html)
+
+## Pencil Case
+1. [KOKUYO Pencil Case](https://www.amazon.com.au/KOKUYO-Pencil-Case-Black-F-VBF170-1/dp/B01IVGB5MQ)
 
 ## Powerbank
-1. https://hellonomad.com/products/powerpack
-2. https://zendure.com/collections/power-banks/products/supermini-5k?lang=en&country=australia?variant=32104662433866
-
-## Notebook
-1. https://www.amazon.com.au/Moleskine-Classic-Notebook-Sketching-Journaling/dp/8883701135
-2. https://www.amazon.com/AmazonBasics-NH130210120V-R-Classic-Notebook-Ruled/dp/B01DN8TCEU/ref=sr_1_4?s=office-products&ie=UTF8&qid=1550395017&sr=1-4&keywords=Black+Leather+Notepad
+1. [ZENDURE power bank](https://zendure.com/collections/power-banks/products/supermini-5k?lang=en&country=australia?variant=32104662433866)
 
 ## Light
 1. https://www.amazon.com.au/NITECORE-TUP-1000-Small-Flashlight/dp/B07KPT62P1
@@ -72,16 +69,6 @@ Table of Contents
 ## Lighter
 1. https://www.amazon.com/Tsubota-Pearl-Queue-Metal-Lighter/dp/B00A2MTUV6/
 2. https://www.amazon.com.au/Zippo-Black-Matte-Pocket-Lighter/dp/B000P3LG2S/
-
-## Watch
-1. https://ulxstore.com/products/raven-all-black-watch?variant=36420778631
-2. https://www.amazon.com/dp/B0721K568R
-3. https://www.amazon.com/dp/B003JJBC4M/
-4. https://www.amazon.com/dp/B00YTYI35W/
-5. https://www.amazon.com.au/CASIO-G-Shock-Absolute-Toughness-DW-D5500BB-1/dp/B07K7T1QVJ
-
-## Pencil Case
-1. https://www.amazon.com.au/KOKUYO-Pencil-Case-Black-F-VBF170-1/dp/B01IVGB5MQ
 
 ## Key Ring
 1. https://www.getkeysmart.com/products/keysmart-pro-with-tile-smart-location-tracking?rfsn=1240054.3c98b
@@ -132,6 +119,17 @@ Table of Contents
 
 ## Sunglasses
 1. https://www.amazon.com/dp/B07BGFH9F7/
+
+## Ring
+1. [QALO Men's Classic Silicone Ring](https://www.amazon.com/dp/B076Q9JXP5/ref=twister_B07N7YLV2D?th=1)
+2. [BONDWELL Silicone Ring][https://www.amazon.com/BONDWELL-Silicone-Marriage-Athletes-Military/dp/B0175UU39A]
+
+## Watch
+1. https://ulxstore.com/products/raven-all-black-watch?variant=36420778631
+2. https://www.amazon.com/dp/B0721K568R
+3. https://www.amazon.com/dp/B003JJBC4M/
+4. https://www.amazon.com/dp/B00YTYI35W/
+5. https://www.amazon.com.au/CASIO-G-Shock-Absolute-Toughness-DW-D5500BB-1/dp/B07K7T1QVJ
 
 ## Furniture
 1. https://www.busterandpunch.com/hardware/cabinet-hardware/pull-bar/pull-bar-black
