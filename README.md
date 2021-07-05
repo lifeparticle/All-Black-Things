@@ -61,29 +61,24 @@ Table of Contents
 1. [ZENDURE power bank](https://zendure.com/collections/power-banks/products/supermini-5k?lang=en&country=australia?variant=32104662433866)
 
 ## Light
-1. https://www.amazon.com.au/NITECORE-TUP-1000-Small-Flashlight/dp/B07KPT62P1
-2. https://www.amazon.com/Olight-I1R-EOS-Rechargeable-Keychain/dp/B07CT423H2
-3. https://www.rovyvon.com/collections/flashlight/products/a4?variant=12234897784935
-4. https://shopmecarmy.com/collections/featured-product/products/illumine-x4s-130-lumens-mini-rechargeable-alluminum-keychain-flashlight?variant=51125983111
-
-## Lighter
-1. https://www.amazon.com/Tsubota-Pearl-Queue-Metal-Lighter/dp/B00A2MTUV6/
-2. https://www.amazon.com.au/Zippo-Black-Matte-Pocket-Lighter/dp/B000P3LG2S/
+1. [NITECORE T4K](https://flashlight.nitecore.com/product/t4k)
+2. [RovyVon Aurora A4](https://www.rovyvon.com/collections/flashlight/products/a4?variant=12234897784935)
+3. [MecArmy Illumine X4S](https://shopmecarmy.com/collections/featured-product/products/illumine-x4s-130-lumens-mini-rechargeable-alluminum-keychain-flashlight?variant=51125983111)
 
 ## Key Ring
-1. https://www.getkeysmart.com/products/keysmart-pro-with-tile-smart-location-tracking?rfsn=1240054.3c98b
-2. https://www.amazon.com/Orbitkey-Rubber-2-0-Jet-Black/dp/B06XYJF3G1
-3. https://www.orbitkey.com.au/collections/orbitkey-ring/products/orbitkey-ring?variant=12102287392869
+1. [KEYSMART MAX](https://www.getkeysmart.com/products/keysmart-max)
+2. [Orbitkey Key Organiser](https://www.orbitkey.com.au/collections/key-organiser/products/orbitkey-2-0-leather?variant=28920302418)
+3. [Orbitkey Ring](https://www.orbitkey.com.au/collections/orbitkey-ring/products/orbitkey-ring?variant=12102287392869)
 
 ## Stylus
-1. https://www.moxiware.com/products/apple-pencil-magnet?variant=8356197889
+1. [Moxiware Apple Pencil](https://www.moxiware.com/products/apple-pencil-magnet?variant=8356197889)
 
 ## Umbrella
-1. https://www.amazon.com.au/AmazonBasics-Automatic-Travel-Umbrella-Black/dp/B00WTHJ5SU
+1. [AmazonBasics Umbrella](https://www.amazon.com.au/AmazonBasics-Automatic-Travel-Umbrella-Black/dp/B00WTHJ5SU)
 
 ## Knife
-1. https://www.bladehq.com/item--Microtech-UTX-85-DE-OTF-Automatic--80743
-2. https://dapperdesign.com/products/klip-black-aluminum-knife-edc-suspension-hook
+1. [Blade HQ Microtech UTX-85](https://www.bladehq.com/item--Microtech-UTX-85-DE-OTF-Automatic--80743)
+2. [Dapper Design KLIP BLACK](https://dapperdesign.com/products/klip-black-aluminum-knife-edc-suspension-hook)
 
 ## Multitool
 1. https://www.amazon.com/Gerber-Dime-Multi-Tool-Black-30-000469/dp/B006M9NIDO/
@@ -130,6 +125,10 @@ Table of Contents
 3. https://www.amazon.com/dp/B003JJBC4M/
 4. https://www.amazon.com/dp/B00YTYI35W/
 5. https://www.amazon.com.au/CASIO-G-Shock-Absolute-Toughness-DW-D5500BB-1/dp/B07K7T1QVJ
+
+## Lighter
+1. https://www.amazon.com/Tsubota-Pearl-Queue-Metal-Lighter/dp/B00A2MTUV6/
+2. https://www.amazon.com.au/Zippo-Black-Matte-Pocket-Lighter/dp/B000P3LG2S/
 
 ## Furniture
 1. https://www.busterandpunch.com/hardware/cabinet-hardware/pull-bar/pull-bar-black
