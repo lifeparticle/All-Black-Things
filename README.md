@@ -117,7 +117,7 @@ Table of Contents
 
 ## Ring
 1. [QALO Men's Classic Silicone Ring](https://www.amazon.com/dp/B076Q9JXP5/ref=twister_B07N7YLV2D?th=1)
-2. [BONDWELL Silicone Ring][https://www.amazon.com/BONDWELL-Silicone-Marriage-Athletes-Military/dp/B0175UU39A]
+2. [BONDWELL Silicone Ring](https://www.amazon.com/BONDWELL-Silicone-Marriage-Athletes-Military/dp/B0175UU39A])
 
 ## Watch
 1. https://ulxstore.com/products/raven-all-black-watch?variant=36420778631
