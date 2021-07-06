@@ -81,89 +81,81 @@ Table of Contents
 2. [Dapper Design KLIP BLACK](https://dapperdesign.com/products/klip-black-aluminum-knife-edc-suspension-hook)
 
 ## Multitool
-1. https://www.amazon.com/Gerber-Dime-Multi-Tool-Black-30-000469/dp/B006M9NIDO/
-2. https://quietcarry.com/collections/the-shorty/products/the-shorty-key-organizer-titanium-bl
-3. https://slidebelts.com/products/survival-belt
-4. https://aokuware.com/products/k3
-5. https://www.orbitkey.com.au/products/travel-kit?variant=12590591672421
+1. [Gerber Gear Dime](https://www.gerbergear.com/en-us/shop/multi-tools/all-multi-tools/dime-black-30-000469)
+2. [Quiet Carry Shorty G2](https://quietcarry.com/collections/the-shorty/products/the-shorty-key-organizer-titanium-bl)
+3. [SlideBelts Survival Belt](https://slidebelts.com/products/survival-belt)
+4. [Orbitkey Travel Kit](https://www.orbitkey.com.au/products/travel-kit?variant=12590591672421)
 
 ## Winter face mask
-1. https://www.amazon.com/Self-Pro-Balaclava-Motorcycle-Hypo-allergenic/dp/B00S0YA5GM/
+1. [Self Pro Balaclava Ski Mask](https://www.amazon.com/Self-Pro-Balaclava-Performance-Construction-dp-B01N9G3YGX/dp/B01N9G3YGX)
 
 ## Stylus
-1. https://www.adonit.net/mini4/
+1. TODO
 
 ## Wallets
-1. https://bellroy.com/products/slim-sleeve-de/leather/black
-2. https://popsockets.com.au/products/black-popwallet
+1. [Bellroy Slim Sleeve](https://bellroy.com/products/slim-sleeve-de/leather/black)
+2. [PopSockets PopWallet](https://popsockets.com.au/products/black-popwallet)
 
 ## Shirts
-1. https://bananarepublic.gap.com/browse/product.do?pid=665373002#pdp-page-content
+1. [Banana Republic Cotton Oxford Shirt](https://bananarepublic.gap.com/browse/product.do?pid=665373002#pdp-page-content)
 
 ## Scarf
-1. https://bananarepublic.gap.com/browse/product.do?pid=607920012#pdp-page-content
+1. [Banana Republic Scarf](https://bananarepublic.gap.com/browse/product.do?pid=607920012#pdp-page-content)
 
 ## Turtle Neck
-1. https://www.uniqlo.com/au/en/products/E419192-000?colorCode=COL09
+1. [UNIQLO Turtle Neck Long Sleeve](https://www.uniqlo.com/au/en/products/E419192-000?colorCode=COL09)
 
 ## Pants
-1. https://www.boundarysupply.com/products/mens-chase-denim-pant
+1. TODO
 
 ## Box
-1. https://en.monbento.com/bento-box-monbento-mb-original-black-4129.html
+1. [Monbento bento box](https://en.monbento.com/bento-box-monbento-mb-original-black-made-in-france)
 
 ## Sunglasses
-1. https://www.amazon.com/dp/B07BGFH9F7/
+1. [Foldies Folding Browline Sunglasses](https://www.amazon.com/dp/B07BGFH9F7/)
 
 ## Ring
 1. [QALO Men's Classic Silicone Ring](https://www.amazon.com/dp/B076Q9JXP5/ref=twister_B07N7YLV2D?th=1)
 2. [BONDWELL Silicone Ring](https://www.amazon.com/BONDWELL-Silicone-Marriage-Athletes-Military/dp/B0175UU39A])
 
 ## Watch
-1. https://ulxstore.com/products/raven-all-black-watch?variant=36420778631
-2. https://www.amazon.com/dp/B0721K568R
-3. https://www.amazon.com/dp/B003JJBC4M/
-4. https://www.amazon.com/dp/B00YTYI35W/
-5. https://www.amazon.com.au/CASIO-G-Shock-Absolute-Toughness-DW-D5500BB-1/dp/B07K7T1QVJ
+1. [ULX Core](https://ulxstore.com/collections/all-products/products/black-black-leather-core-watch?variant=22549148172348)
+2. [Timex Expedition](https://www.amazon.com/dp/B0721K568R)
+3. [Bertucci A-2T](https://www.amazon.com/dp/B003JJBC4M/)
+4. [Timex Expedition](https://www.amazon.com/dp/B00YTYI35W/)
+5. [CASIO G-Shock](https://www.amazon.com.au/CASIO-G-Shock-Absolute-Toughness-DW-D5500BB-1/dp/B07K7T1QVJ)
 
 ## Lighter
-1. https://www.amazon.com/Tsubota-Pearl-Queue-Metal-Lighter/dp/B00A2MTUV6/
-2. https://www.amazon.com.au/Zippo-Black-Matte-Pocket-Lighter/dp/B000P3LG2S/
+1. [TSUBOTA PEARL LIGHTER](https://www.huntercandles.com.au/hunter-candles/monolighter?rq=Tsubota%20Pearl)
+2. [Zippo Lighter](https://www.amazon.com.au/Zippo-Black-Matte-Pocket-Lighter/dp/B000P3LG2S/)
 
 ## Furniture
-1. https://www.busterandpunch.com/hardware/cabinet-hardware/pull-bar/pull-bar-black
-2. https://www.busterandpunch.com/t-bar-nude-black
-3. https://www.busterandpunch.com/closet-bar-black
-4. https://www.busterandpunch.com/thumbturn-lock-black
-5. https://www.busterandpunch.com/machined-tray-black
+1. [Buster + Punch PULL BAR](https://www.busterandpunch.com/hardware/cabinet-hardware/pull-bar/pull-bar-black)
+2. [Buster + Punch PULL T-BAR](https://www.busterandpunch.com/t-bar-nude-black)
+3. [Buster + Punch PULL CLOSET BAR](https://www.busterandpunch.com/closet-bar-black)
+4. [Buster + Punch PULL THUMBTURN LOCK](https://www.busterandpunch.com/thumbturn-lock-black)
+5. [Buster + Punch PULL TRAY](https://www.busterandpunch.com/machined-tray-black)
 
 ## Desk Mat
-1. https://grovemade.com/product/black-leather-desk-pad/
+1. [Grovemade Desk Pad](https://grovemade.com/product/black-leather-desk-pad/)
 
 ## Mouse Pad
-1. https://ergonofis.com/products/leather-mouse-pad
+1. [Ergonofis mouse pad](https://ergonofis.com/products/leather-mouse-pad)
 
 ## Kettles
-1. https://www.amazon.com.au/dp/B07NLVRX4G
+1. [Fellow Kettle](https://www.amazon.com.au/dp/B07NLVRX4G)
 
 ## Storage & Organization
-1. https://www.lowes.com/pd/Blue-Hawk-1-Piece-Steel-Pegboard-Actual-16-in-x-16-in/50220687
-2. https://www.target.com/p/mesh-desk-organizer-black-made-by-design-8482/-/A-53818724
-3. https://www.target.com/p/mesh-letter-sorter-black-made-by-design-8482/-/A-53820883
-4. https://www.amazon.com/gp/product/B07ZHNT3JV/
-5. https://www.amazon.com/gp/product/B073XV1P16/
-6. https://www.amazon.com/gp/product/B071FXZBMV
+1. [Lowe's Pegboard](https://www.lowes.com/pd/Blue-Hawk-1-Piece-Steel-Pegboard-Actual-16-in-x-16-in/50220687)
+2. [Bolt Dropper Store Cable Zip Ties](https://www.amazon.com/gp/product/B07ZHNT3JV/)
+3. [Command Hanging Strips](https://www.amazon.com/gp/product/B073XV1P16/)
+4. [OHill Cable Clips](https://www.amazon.com/gp/product/B071FXZBMV)
+5. [ForSewian Reusable Cable Ties](https://www.amazon.com.au/gp/product/B096MDV7WQ/)
+6. [Baskiss Cable Clips](https://www.amazon.com.au/gp/product/B07BQ2MWT3/)
 
 ## Water bottle
-1. https://www.crateandbarrel.com/miir-32-oz.-black-wide-mouth-water-bottle/s364036
+1. [Crate and Barrel Water Bottle](https://www.crateandbarrel.com/miir-32-oz.-black-wide-mouth-water-bottle/s364036)
 
 ## Bags
-1. https://www.harberlondon.com/collections/messenger-bags/products/leather-messenger-bag-for-macbook
-
-## Others
-1. https://www.amazon.com/gp/product/B00P936188
-2. https://www.amazon.com/gp/product/B088NMR44C/
-3. https://www.amazon.com/gp/product/B07V2LDGQ7
-4. https://www.amazon.com/gp/product/B07DD5YHMH
-5. https://www.amazon.com/gp/product/B071X9XNWR
-6. https://www.amazon.com/gp/product/B07H4YTL2B
+1. [Harber London Leather Messenger Bag](https://www.harberlondon.com/collections/messenger-bags/products/leather-messenger-bag-for-macbook)
+2. [AOKU VERTICAL FOLDER POUCH](https://aokuware.com/products/o6i6i6-st)
