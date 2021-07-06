@@ -12,15 +12,12 @@ A curated list of black items.
 Table of Contents
 =================
 
-* [PEN](#pen)
-* [Ring](#ring)
-* [Pencil](#pencil)
-* [Powerbank](#powerbank)
 * [Notebook](#notebook)
-* [Light](#light)
-* [Lighter](#lighter)
-* [Watch](#watch)
+* [PEN](#pen)
+* [Pencil](#pencil)
 * [Pencil Case](#pencil-case)
+* [Powerbank](#powerbank)
+* [Light](#light)
 * [Key Ring](#key-ring)
 * [Stylus](#stylus)
 * [Umbrella](#umbrella)
@@ -35,6 +32,9 @@ Table of Contents
 * [Pants](#pants)
 * [Box](#box)
 * [Sunglasses](#sunglasses)
+* [Ring](#ring)
+* [Watch](#watch)
+* [Lighter](#lighter)
 * [Furniture](#furniture)
 * [Desk Mat](#desk-mat)
 * [Mouse Pad](#mouse-pad)
@@ -42,7 +42,6 @@ Table of Contents
 * [Storage &amp; Organization](#storage--organization)
 * [Water bottle](#water-bottle)
 * [Bags](#bags)
-* [Others](#others)
 
 ## Notebook
 1. [Moleskine Classic Notebook Expanded](https://www.moleskine.com/shop/notebooks/the-original-notebooks/classic-notebook-expanded-8058647628042.html)
