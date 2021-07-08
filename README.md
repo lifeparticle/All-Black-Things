@@ -79,6 +79,9 @@ Table of Contents
 1. [Blade HQ Microtech UTX-85](https://www.bladehq.com/item--Microtech-UTX-85-DE-OTF-Automatic--80743)
 2. [Dapper Design KLIP BLACK](https://dapperdesign.com/products/klip-black-aluminum-knife-edc-suspension-hook)
 
+## Scissors
+1. [ALLEX Scissors](https://www.amazon.com.au/Non-Sticking-Fluorine-Japanese-Stainless-Scissors/dp/B001G7PCJU/)
+
 ## Multitool
 1. [Gerber Gear Dime](https://www.gerbergear.com/en-us/shop/multi-tools/all-multi-tools/dime-black-30-000469)
 2. [Quiet Carry Shorty G2](https://quietcarry.com/collections/the-shorty/products/the-shorty-key-organizer-titanium-bl)
