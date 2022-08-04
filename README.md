@@ -127,7 +127,7 @@ Table of Contents
 2. [Timex Expedition](https://www.amazon.com/dp/B0721K568R)
 3. [Bertucci A-2T](https://www.amazon.com/dp/B003JJBC4M/)
 4. [Timex Expedition](https://www.amazon.com/dp/B00YTYI35W/)
-5. [CASIO G-Shock](https://www.amazon.com.au/CASIO-G-Shock-Absolute-Toughness-DW-D5500BB-1/dp/B07K7T1QVJ)
+5. [CASIO G-Shock](https://gshock.com.au/collections/buy-now/products/gbd200uu-1d)
 
 ## Lighter
 1. [TSUBOTA PEARL LIGHTER](https://www.huntercandles.com.au/hunter-candles/monolighter?rq=Tsubota%20Pearl)
