@@ -42,6 +42,7 @@ Table of Contents
 * [Storage &amp; Organization](#storage--organization)
 * [Water bottle](#water-bottle)
 * [Bags](#bags)
+* [Others](#others)
 
 ## Notebook
 1. [Moleskine Classic Notebook Expanded](https://www.moleskine.com/shop/notebooks/the-original-notebooks/classic-notebook-expanded-8058647628042.html)
@@ -74,6 +75,7 @@ Table of Contents
 
 ## Umbrella
 1. [AmazonBasics Umbrella](https://www.amazon.com.au/AmazonBasics-Automatic-Travel-Umbrella-Black/dp/B00WTHJ5SU)
+2. [THE DAVEK SOLO](https://davekny.com/products/the-davek-solo-2?variant=1070348193)
 
 ## Knife
 1. [Blade HQ Microtech UTX-85](https://www.bladehq.com/item--Microtech-UTX-85-DE-OTF-Automatic--80743)
