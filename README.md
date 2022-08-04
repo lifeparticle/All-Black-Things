@@ -62,7 +62,7 @@ Table of Contents
 
 ## Light
 1. [NITECORE T4K](https://flashlight.nitecore.com/product/t4k)
-2. [RovyVon Aurora A4](https://www.rovyvon.com/collections/flashlight/products/a4?variant=12234897784935)
+2. [Aurora A3 Pro 7075 Al LED Keychain Flashlight](https://www.rovyvon.com/en-au/products/a3-pro?_pos=5&_sid=943b8ee33&_ss=r&variant=39543139729511)
 3. [MecArmy Illumine X4S](https://shopmecarmy.com/collections/featured-product/products/illumine-x4s-130-lumens-mini-rechargeable-alluminum-keychain-flashlight?variant=51125983111)
 
 ## Key Ring
@@ -88,7 +88,7 @@ Table of Contents
 1. [Gerber Gear Dime](https://www.gerbergear.com/en-us/shop/multi-tools/all-multi-tools/dime-black-30-000469)
 2. [Quiet Carry Shorty G2](https://quietcarry.com/collections/the-shorty/products/the-shorty-key-organizer-titanium-bl)
 3. [SlideBelts Survival Belt](https://slidebelts.com/products/survival-belt)
-4. [Orbitkey Travel Kit](https://www.orbitkey.com.au/products/travel-kit?variant=12590591672421)
+4. [Key Organiser Leather](https://www.orbitkey.com.au/collections/key-organiser/products/orbitkey-2-0-leather?variant=28920302418)
 
 ## Winter face mask
 1. [Self Pro Balaclava Ski Mask](https://www.amazon.com/Self-Pro-Balaclava-Performance-Construction-dp-B01N9G3YGX/dp/B01N9G3YGX)
@@ -98,7 +98,7 @@ Table of Contents
 
 ## Wallets
 1. [Bellroy Slim Sleeve](https://bellroy.com/products/slim-sleeve-de/leather/black)
-2. [PopSockets PopWallet](https://popsockets.com.au/products/black-popwallet)
+2. [PopSockets PopWallet](https://popsockets.com.au/products/popwallet-solid-black)
 
 ## Shirts
 1. [Banana Republic Cotton Oxford Shirt](https://bananarepublic.gap.com/browse/product.do?pid=665373002#pdp-page-content)
@@ -158,11 +158,12 @@ Table of Contents
 6. [Baskiss Cable Clips](https://www.amazon.com.au/gp/product/B07BQ2MWT3/)
 
 ## Water bottle
-1. [Crate and Barrel Water Bottle](https://www.crateandbarrel.com/miir-32-oz.-black-wide-mouth-water-bottle/s364036)
+1. todo
 
 ## Bags
 1. [Harber London Leather Messenger Bag](https://www.harberlondon.com/collections/messenger-bags/products/leather-messenger-bag-for-macbook)
-2. [AOKU VERTICAL FOLDER POUCH](https://aokuware.com/products/o6i6i6-st)
+2. [AOKU VERTICAL FOLDER POUCH](https://aokuware.com/products/o6i6i6-v2-i-ggx)
 
 ## Others
 1. [screwdriver-set](https://hototools.com/products/hoto-electric-25in1-precision-screwdriver-set)
+2. [Mini Black Bowl](https://www.crateandbarrel.com/mini-black-bowl/s225318)
