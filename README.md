@@ -168,3 +168,5 @@ Table of Contents
 1. [screwdriver-set](https://hototools.com/products/hoto-electric-25in1-precision-screwdriver-set)
 2. [Mini Black Bowl](https://www.crateandbarrel.com/mini-black-bowl/s225318)
 3. [Steamed Hank](https://www.awesomehank.com/products/steamed-buns-hank)
+4. [HUB POUCH](https://alpakagear.com/products/hub-pouch?variant=42192830824610)
+5. [KIYA Black Carbon Steel Nail Clipper](https://www.amazon.com.au/SureBuyShop-Black-Carbon-Clipper-Catcher/dp/B07K893NDB)
