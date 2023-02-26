@@ -158,7 +158,7 @@ Table of Contents
 6. [Baskiss Cable Clips](https://www.amazon.com.au/gp/product/B07BQ2MWT3/)
 
 ## Water bottle
-1. todo
+1. https://www.memobottle.com.au/collections/memobottles/products/a5-stainless-steel-memobottle-black
 
 ## Bags
 1. [Harber London Leather Messenger Bag](https://www.harberlondon.com/collections/messenger-bags/products/leather-messenger-bag-for-macbook)
