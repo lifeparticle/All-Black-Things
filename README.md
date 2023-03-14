@@ -163,6 +163,7 @@ Table of Contents
 ## Bags
 1. [Harber London Leather Messenger Bag](https://www.harberlondon.com/collections/messenger-bags/products/leather-messenger-bag-for-macbook)
 2. [AOKU VERTICAL FOLDER POUCH](https://aokuware.com/products/o6i6i6-v2-i-ggx)
+3. https://paktbags.com/products/the-pakt-travel-backpack?sscid=31k7_haobj&variant=34631236190370
 
 ## Others
 1. [screwdriver-set](https://hototools.com/products/hoto-electric-25in1-precision-screwdriver-set)
